@@ -10,7 +10,6 @@ PS3 - eXternal RetroArch MOD - MegaPack RETRO
 @PaPer_DJ
 
 
-
 📌 BUILD MegaPACK Retro PS3 1.0 By PaPer_DJ con:
 
 ✓ Pack BASE (Para añadir los Juegos y BIOS Manualmente) [8Gb]
@@ -20,8 +19,6 @@ PS3 - eXternal RetroArch MOD - MegaPack RETRO
 ✓ Pack FULL MegaPACK Completo = [102Gb] (Cabe en una Memoria USB o MicroSD de 128Gb)
 
    Es igual que el Lite más ésto: (GameBoyAdvance, PCEngine CD, TurboGrafx CD) [77Gb]
-
-
 
 
 📌 Sistemas que incluye el Pack:
