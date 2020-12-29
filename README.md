@@ -3,13 +3,11 @@ Creative Commons Attribution Share Alike 4.0	[ cc-by-sa-4.0 ]
 
 ================================
 
+🕹 eXternal PS3 Retroarch By PaPer_DJ V_1.0 🕹 
+Right USB Port / Puerto USB Derecho [dev_usb000]
 
 PS3 - eXternal RetroArch MOD - MegaPack RETRO
 @PaPer_DJ
-🕹 eXternal PS3 Retroarch By PaPer_DJ V_1.0 🕹 
-
-Right USB Port / Puerto USB Derecho [dev_usb000]
-
 
 
 📌 BUILD MegaPACK Retro PS3 1.0 By PaPer_DJ con:
